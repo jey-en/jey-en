@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm  Judy👋
+welcome to my github profile 
 
-<!--
-**jey-en/jey-en** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ABOUT ME
+. I'm currently learning programming (at IYF)
+. I'm interested in learning programming in general and web development 
+. I'm looking to collaborate on (beginner -friendly open source projects)
 
-Here are some ideas to get you started:
+SKILLS I'M BUILDING 
+.Git and Github
+.HTML and CSS
+. JavaScript 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HOW TO REACH ME
+Email(jeyenw@gmail.com)
