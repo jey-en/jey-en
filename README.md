@@ -12,8 +12,11 @@ ABOUT ME
 SKILLS I'M BUILDING 
 
 .Git and Github
+
 .HTML and CSS
+
 . JavaScript 
 
 HOW TO REACH ME
+
 Email(jeyenw@gmail.com)
