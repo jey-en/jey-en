@@ -1,0 +1,63 @@
+## My Learning Goals
+
+### This Semester
+
+I want to become a **better programmer**, learn *GitHub workflows*, and understand how to use `git commit`.
+
+## Useful Links
+
+- My GitHub Profile: https://github.com/jey-en
+  
+
+## Things I Want to Learn
+
+- Python programming
+- Git and GitHub
+- Web development
+
+## Steps to Make a Git Commit
+
+1. Stage your changes with `git add .`
+2. Create a commit with `git commit -m "message"`
+3. Push the commit with `git push`
+
+## Tools Table
+
+| Tool | Purpose | Link |
+|------|---------|------|
+| GitHub | Store and share code | https://github.com |
+| VS Code | Write and edit code | https://code.visualstudio.com |
+
+## Learning Tasks
+
+- [x] Create a GitHub account
+- [x] Create a repository
+- [ ] Learn Markdown
+- [ ] Build a personal project
+
+## Code Example
+
+```python
+def greet(name):
+    print(f"Hello, {name}!")
+
+greet("Judy")
+```
+
+## Quote
+
+> "The best way to learn programming is by building projects."
+
+## About Me
+
+My name is **Judy** and I am learning *software development*. I use tools like `GitHub` and VS Code to improve my skills.
+
+### Current Goals
+
+- Learn Python
+- Practice Git commands
+- Build projects
+
+Useful resource: https://www.freecodecamp.org
+
+> Keep learning a little every day.
